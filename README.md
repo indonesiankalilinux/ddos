@@ -1,0 +1,2 @@
+# ddos
+Gunakan dengan bijak
